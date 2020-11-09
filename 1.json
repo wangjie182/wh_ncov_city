@@ -1,0 +1,93 @@
+{
+    "status": "1",
+    "info": "OK",
+    "infocode": "10000",
+    "count": "10",
+    "geocodes": [
+        {
+            "formatted_address": "甘肃省甘南藏族自治州",
+            "country": "中国",
+            "province": "甘肃省",
+            "citycode": "0941",
+            "city": "甘南藏族自治州",
+            "district": [],
+            "township": [],
+            "neighborhood": {
+                "name": [],
+                "type": []
+            },
+            "building": {
+                "name": [],
+                "type": []
+            },
+            "adcode": "623000",
+            "street": [],
+            "number": [],
+            "location": "102.911027,34.983385",
+             "level": "市"
+        },
+        {
+            "formatted_address": "重庆市万州区",
+            "country": "中国",
+            "province": "重庆市",
+            "citycode": "023",
+            "city": "重庆市",
+            "district": "万州区",
+            "township": [],
+            "neighborhood": {
+                "name": [],
+                "type": []
+            },
+            "building": {
+                "name": [],
+                "type": []
+            },
+            "adcode": "500101",
+            "street": [],
+            "number": [],
+            "location": "108.408661,30.807667", "level": "区县"
+        },
+        {
+            "formatted_address": "重庆市沙坪坝区",
+            "country": "中国",
+            "province": "重庆市",
+            "citycode": "023",
+            "city": "重庆市",
+            "district": "沙坪坝区",
+            "township": [],
+            "neighborhood": {
+                "name": [],
+                "type": []
+            },
+            "building": {
+                "name": [],
+                "type": []
+            },
+            "adcode": "500106",
+            "street": [],
+            "number": [],
+            "location": "106.456878,29.541145", "level": "区县"
+        },
+        {
+            "formatted_address": "重庆市合川区",
+            "country": "中国",
+            "province": "重庆市",
+            "citycode": "023",
+            "city": "重庆市",
+            "district": "合川区",
+            "township": [],
+            "neighborhood": {
+                "name": [],
+                "type": []
+            },
+            "building": {
+                "name": [],
+                "type": []
+            },
+            "adcode": "500117",
+            "street": [],
+            "number": [],
+            "location": "106.276130,29.972084", "level": "区县"
+        }
+    ]
+}
