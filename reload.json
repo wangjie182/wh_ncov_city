@@ -1,0 +1,184 @@
+{
+    "status": "1",
+    "info": "OK",
+    "infocode": "10000",
+    "count": "8",
+    "geocodes": [
+        {
+            "formatted_address": "\u6e56\u5317\u7701\u6b66\u6c49\u5e02",
+            "country": "\u4e2d\u56fd",
+            "province": "\u6e56\u5317\u7701",
+            "citycode": "027",
+            "city": "\u6b66\u6c49\u5e02",
+            "district": [],
+            "township": [],
+            "neighborhood": {
+                "name": [],
+                "type": []
+            },
+            "building": {
+                "name": [],
+                "type": []
+            },
+            "adcode": "420100",
+            "street": [],
+            "number": [],
+            "location": "114.305392,30.593098",
+            "level": "\u5e02"
+        },
+        {
+            "formatted_address": [],
+            "country": [],
+            "province": [],
+            "citycode": [],
+            "city": [],
+            "district": [],
+            "township": [],
+            "neighborhood": {
+                "name": [],
+                "type": []
+            },
+            "building": {
+                "name": [],
+                "type": []
+            },
+            "adcode": [],
+            "street": [],
+            "number": [],
+            "location": [],
+            "level": []
+        },
+        {
+            "formatted_address": [],
+            "country": [],
+            "province": [],
+            "citycode": [],
+            "city": [],
+            "district": [],
+            "township": [],
+            "neighborhood": {
+                "name": [],
+                "type": []
+            },
+            "building": {
+                "name": [],
+                "type": []
+            },
+            "adcode": [],
+            "street": [],
+            "number": [],
+            "location": [],
+            "level": []
+        },
+        {
+            "formatted_address": "\u6e56\u5317\u7701\u6b66\u6c49\u5e02",
+            "country": "\u4e2d\u56fd",
+            "province": "\u6e56\u5317\u7701",
+            "citycode": "027",
+            "city": "\u6b66\u6c49\u5e02",
+            "district": [],
+            "township": [],
+            "neighborhood": {
+                "name": [],
+                "type": []
+            },
+            "building": {
+                "name": [],
+                "type": []
+            },
+            "adcode": "420100",
+            "street": [],
+            "number": [],
+            "location": "114.305392,30.593098",
+            "level": "\u5e02"
+        },
+        {
+            "formatted_address": "\u6e56\u5317\u7701\u6b66\u6c49\u5e02",
+            "country": "\u4e2d\u56fd",
+            "province": "\u6e56\u5317\u7701",
+            "citycode": "027",
+            "city": "\u6b66\u6c49\u5e02",
+            "district": [],
+            "township": [],
+            "neighborhood": {
+                "name": [],
+                "type": []
+            },
+            "building": {
+                "name": [],
+                "type": []
+            },
+            "adcode": "420100",
+            "street": [],
+            "number": [],
+            "location": "114.305392,30.593098",
+            "level": "\u5e02"
+        },
+        {
+            "formatted_address": "\u6e56\u5317\u7701\u6b66\u6c49\u5e02",
+            "country": "\u4e2d\u56fd",
+            "province": "\u6e56\u5317\u7701",
+            "citycode": "027",
+            "city": "\u6b66\u6c49\u5e02",
+            "district": [],
+            "township": [],
+            "neighborhood": {
+                "name": [],
+                "type": []
+            },
+            "building": {
+                "name": [],
+                "type": []
+            },
+            "adcode": "420100",
+            "street": [],
+            "number": [],
+            "location": "114.305392,30.593098",
+            "level": "\u5e02"
+        },
+        {
+            "formatted_address": "\u6e56\u5317\u7701\u6b66\u6c49\u5e02",
+            "country": "\u4e2d\u56fd",
+            "province": "\u6e56\u5317\u7701",
+            "citycode": "027",
+            "city": "\u6b66\u6c49\u5e02",
+            "district": [],
+            "township": [],
+            "neighborhood": {
+                "name": [],
+                "type": []
+            },
+            "building": {
+                "name": [],
+                "type": []
+            },
+            "adcode": "420100",
+            "street": [],
+            "number": [],
+            "location": "114.305392,30.593098",
+            "level": "\u5e02"
+        },
+        {
+            "formatted_address": [],
+            "country": [],
+            "province": [],
+            "citycode": [],
+            "city": [],
+            "district": [],
+            "township": [],
+            "neighborhood": {
+                "name": [],
+                "type": []
+            },
+            "building": {
+                "name": [],
+                "type": []
+            },
+            "adcode": [],
+            "street": [],
+            "number": [],
+            "location": [],
+            "level": []
+        }
+    ]
+}
